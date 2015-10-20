@@ -1,0 +1,11 @@
+body {
+	max-width: 1200px;
+	margin: 3% auto;
+	text-align: center;
+	background-color: #222;
+	color: #eee;
+}
+
+#questions {
+	height: 100px;
+}
